@@ -1,0 +1,29 @@
+body{
+    background-color:#13060d;
+    margin:0;
+    font-family: 'Gotu', sans-serif;
+}
+#container{
+    margin-top: 15%;
+    max-width: 1000px;
+    margin:20px auto;
+}
+
+ img{
+    width:17.5%;
+	background:purple;
+	float:left;
+    margin:0.5%  3% 0.5%;
+    border-radius: 10%;
+   
+} 
+h1{
+    color:white;
+    margin-bottom:0;
+    text-align:center;
+}
+#start{
+    border-style: none;
+    font-size:2rem;
+    text-align: center;
+}
